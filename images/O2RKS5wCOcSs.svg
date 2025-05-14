@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13" height="22" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><defs><path id="a" d="M13 10.5L9.62 6.81 3.38 0 0 3.784 6.153 10.5 0 17.216 3.38 21l6.24-6.81z"/></defs><g transform="translate(0 .5)" fill="none" fill-rule="evenodd"><mask id="b" fill="#fff"><use xlink:href="#a"/></mask><use fill="#0360A6" xlink:href="#a"/><g mask="url(#b)" fill="#1F1F1F"><path d="M0 0h13v21H0z"/></g></g></svg>
